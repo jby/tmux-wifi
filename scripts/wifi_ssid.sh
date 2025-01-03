@@ -5,4 +5,3 @@ source "$CURRENT_DIR/source_module.sh"
 main() {
   get_wifi_ssid
 }
-main
